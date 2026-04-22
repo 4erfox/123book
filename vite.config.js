@@ -1,6 +1,9 @@
 import { defineConfig } from 'vite'
 import path from 'path'
 import { glob } from 'glob'
+import { fileURLToPath } from 'url'
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url))
 
 // Автоматически находим все HTML файлы в public/
 function getInputs() {
@@ -19,8 +22,8 @@ function getInputs() {
   return inputs
 }
 
-export default defineConfig({
-  base: '/123book/',
+export default defineConfig(({ command }) => ({
+  base: command === 'serve' ? '/' : '/etiquettebook/',
 
   root: 'public',
 
@@ -41,4 +44,4 @@ export default defineConfig({
       }
     }
   }
-})
+}))
