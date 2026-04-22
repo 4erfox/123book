@@ -5,7 +5,7 @@
     "pages": [
       {
         "name": "onepage.html",
-        "href": "./pages/onepage.html",
+        "href": "/pages/onepage.html",
         "title": "О деловом этикете"
       },
       {
@@ -21,22 +21,22 @@
     "pages": [
       {
         "name": "business-attire.html",
-        "href": "./pages/business-attire.html",
+        "href": "/pages/business-attire.html",
         "title": "Деловая одежда"
       },
       {
         "name": "greetings-introductions.html",
-        "href": "./pages/greetings-introductions.html",
+        "href": "/pages/greetings-introductions.html",
         "title": "Приветствия и представления"
       },
       {
         "name": "business-correspondence.html",
-        "href": "./pages/business-correspondence.html",
+        "href": "/pages/business-correspondence.html",
         "title": "Деловая переписка"
       },
       {
         "name": "phone-etiquette.html",
-        "href": "./pages/phone-etiquette.html",
+        "href": "/pages/phone-etiquette.html",
         "title": "Телефонный этикет"
       }
     ]
@@ -47,17 +47,17 @@
     "pages": [
       {
         "name": "meeting-preparation.html",
-        "href": "./pages/meeting-preparation.html",
+        "href": "/pages/meeting-preparation.html",
         "title": "Подготовка к встрече"
       },
       {
         "name": "conducting-negotiations.html",
-        "href": "./pages/conducting-negotiations.html",
+        "href": "/pages/conducting-negotiations.html",
         "title": "Проведение переговоров"
       },
       {
         "name": "business-lunch.html",
-        "href": "./pages/business-lunch.html",
+        "href": "/pages/business-lunch.html",
         "title": "Деловой обед"
       }
     ]
@@ -68,17 +68,17 @@
     "pages": [
       {
         "name": "history-traditions.html",
-        "href": "./pages/history-traditions.html",
+        "href": "/pages/history-traditions.html",
         "title": "История и традиции"
       },
       {
         "name": "national-features.html",
-        "href": "./pages/national-features.html",
+        "href": "/pages/national-features.html",
         "title": "Национальные особенности"
       },
       {
         "name": "respect-hierarchy.html",
-        "href": "./pages/respect-hierarchy.html",
+        "href": "/pages/respect-hierarchy.html",
         "title": "Уважение к иерархии"
       }
     ]
@@ -89,17 +89,17 @@
     "pages": [
       {
         "name": "email-etiquette.html",
-        "href": "./pages/email-etiquette.html",
+        "href": "/pages/email-etiquette.html",
         "title": "Email этикет"
       },
       {
         "name": "video-conferences.html",
-        "href": "./pages/video-conferences.html",
+        "href": "/pages/video-conferences.html",
         "title": "Видеоконференции"
       },
       {
         "name": "social-media-business.html",
-        "href": "./pages/social-media-business.html",
+        "href": "/pages/social-media-business.html",
         "title": "Социальные сети в бизнесе"
       }
     ]
@@ -110,17 +110,17 @@
     "pages": [
       {
         "name": "conflict-resolution.html",
-        "href": "./pages/conflict-resolution.html",
+        "href": "/pages/conflict-resolution.html",
         "title": "Урегулирование конфликта"
       },
       {
         "name": "criticism-feedback.html",
-        "href": "./pages/criticism-feedback.html",
+        "href": "/pages/criticism-feedback.html",
         "title": "Критика и обратная связь"
       },
       {
         "name": "apologies.html",
-        "href": "./pages/apologies.html",
+        "href": "/pages/apologies.html",
         "title": "Извинения"
       }
     ]
