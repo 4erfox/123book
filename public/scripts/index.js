@@ -59,7 +59,7 @@ document.addEventListener('DOMContentLoaded', () => {
         } catch {
             // Если API недоступен — читаем из статичного файла
             try {
-                const res = await fetch('/data/contacts.json?t=' + Date.now());
+                const res = await fetch('/etiquettebook/data/contacts.json?t=' + Date.now());
                 if (!res.ok) throw new Error('file error');
                 const contacts = await res.json();
                 if (!contacts.length) throw new Error('empty');

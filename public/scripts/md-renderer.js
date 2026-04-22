@@ -24,7 +24,7 @@
   // ── Загружаем MD файл ───────────────────────────────────────────────────────
   let mdText;
   try {
-    const res = await fetch(`/docs/${slug}.md?t=${Date.now()}`);
+    const res = await fetch(`/etiquettebook/docs/${slug}.md?t=${Date.now()}`);
     if (!res.ok) throw new Error(`${res.status} ${res.statusText}`);
     mdText = await res.text();
   } catch (e) {
